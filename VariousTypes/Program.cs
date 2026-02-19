@@ -20,6 +20,10 @@ namespace VariousTypes
             Console.WriteLine(real2);
             decimal real3 = 3.125M;
             Console.WriteLine(real3);
+            bool Verdade = true;
+            Console.WriteLine(Verdade);
+            bool Falcidade = false;
+            Console.WriteLine(Falcidade);
         }
     }
 }
