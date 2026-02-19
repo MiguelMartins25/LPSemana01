@@ -14,6 +14,12 @@ namespace VariousTypes
             Console.WriteLine(symbol1);
             char symbol2 = '\uF940';
             Console.WriteLine(symbol2);
+            double real1 = 1.5;
+            Console.WriteLine(real1);
+            float real2 = 2.25F;
+            Console.WriteLine(real2);
+            decimal real3 = 3.125M;
+            Console.WriteLine(real3);
         }
     }
 }
